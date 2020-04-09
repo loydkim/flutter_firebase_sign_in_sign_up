@@ -2,6 +2,21 @@
 
 A new Flutter application.
 
+* To run or debug this code, You should download Google-service.plist or Google-service.json from your firebase console and add to that project. And add your Facebook config in the document. Please watch this video and follow direction 👍🏻
+
+2. Pub dev site ( Download flutter library): https://pub.dev/
+
+3. Firebase console:
+https://console.firebase.google.com/u/0/
+
+4. Facebook developer site: https://developers.facebook.com/
+
+* Develop environment.
+
+- Xcode Version: 11.4
+- Android Studio: 3.5
+- OS Version: MacOS Catalina 10.15.4
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
