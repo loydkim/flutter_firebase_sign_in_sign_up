@@ -1,4 +1,4 @@
-# meandyoudatingapp
+# flutter_firebase_sign_in_sign_up
 
 
 <img src="https://github.com/loydkim/flutter_firebase_sign_in_sign_up/blob/master/promo4.gif" width="300" height="500">
